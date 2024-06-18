@@ -1,9 +1,2 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-https://github.com/tech-shrimp/docker_image_pusher
 --python:3.10.14-alpine
 --emby/embyserver_arm32v7
