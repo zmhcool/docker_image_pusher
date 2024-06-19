@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 jaymoulin/plex
 jellyfin/jellyfin:2024061705
+eightiesguy/emby-addon-armv7
