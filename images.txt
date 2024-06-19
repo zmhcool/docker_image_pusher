@@ -7,3 +7,9 @@ linuxserver/plex:1.32.4.7195-7c8f9d3b6-ls174
 jellyfin/jellyfin:2024061705-armhf
 eightiesguy/emby-addon-armv7
 xhofe/alist:v3.35.0-ffmpeg
+filebrowser/filebrowser:v2.30.0
+liwei2633/gopeed:v1.5.7
+linuxserver/resilio-sync:arm32v7-2.7.3
+mzz2017/v2raya:v2.2.5.2
+hslr/sun-panel:1.5.0-beta24-05-11
+binaryify/netease_cloud_music_api:v4.13.5
