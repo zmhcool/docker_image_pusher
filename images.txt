@@ -3,6 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
-jaymoulin/plex
-jellyfin/jellyfin:2024061705
+linuxserver/plex:1.32.4.7195-7c8f9d3b6-ls174
+jellyfin/jellyfin:2024061705-armhf
 eightiesguy/emby-addon-armv7
+xhofe/alist:v3.35.0-ffmpeg
