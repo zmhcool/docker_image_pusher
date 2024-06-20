@@ -1,1 +1,3 @@
-xhofe/alist:v3.11.0
+linuxserver/plex:arm32v7-1.32.3
+linuxserver/plex:arm32v7-1.32.2
+linuxserver/plex:arm32v7-1.32.4
