@@ -1,1 +1,2 @@
-jellyfin/jellyfin:2024061705-armhf
+jellyfin/jellyfin:20240101.10-unstable-armhf
+jellyfin/jellyfin:20231223.2-unstable-armhf
