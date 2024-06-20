@@ -1,2 +1,1 @@
-xhofe/alist-aria2:v3.35.0
-xhofe/alist:v3.35.0
+xhofe/alist:v3.11.0
