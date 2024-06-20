@@ -1,1 +1,1 @@
- xhofe/alist:v2.0.0
+filebrowser/filebrowser:v2.30.0-armv7
