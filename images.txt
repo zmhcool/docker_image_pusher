@@ -1,1 +1,1 @@
-deluan/navidrome:0.49.3
+deluan/navidrome
