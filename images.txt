@@ -1,1 +1,1 @@
-filebrowser/filebrowser:v2.30.0-armv7
+deluan/navidrome:0.50.1
